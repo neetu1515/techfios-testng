@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6662" started-at="2020-07-08T23:22:59 CDT" finished-at="2020-07-08T23:23:06 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6662" started-at="2020-07-08T23:22:59 CDT" finished-at="2020-07-08T23:23:06 CDT">
+      <class name="test.NewDepositTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.NewDepositTest@9660f4e]" name="launchBrowser" is-config="true" duration-ms="3507" started-at="2020-07-08T23:22:59 CDT" finished-at="2020-07-08T23:23:03 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="userShouldBeAbleToDeposit()[pri:0, instance:test.NewDepositTest@9660f4e]" name="userShouldBeAbleToDeposit" duration-ms="3130" started-at="2020-07-08T23:23:03 CDT" finished-at="2020-07-08T23:23:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToDeposit -->
+      </class> <!-- test.NewDepositTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
