@@ -5,10 +5,8 @@
     <classes>
       <class name="test.NewDepositTest">
         <methods>
-          <include name="closeEverything"/>
           <include name="launchBrowser"/>
           <include name="userShouldBeAbleToDeposit"/>
-          <include name="userShouldBeAbleToDeposit1"/>
         </methods>
       </class> <!-- test.NewDepositTest -->
     </classes>
