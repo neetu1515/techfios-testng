@@ -48,8 +48,12 @@ public class NewDepositTest {
 		
 	}
 
-	/*
-	 * @AfterMethod public void closeEverything() { driver.close(); driver.quit(); }
-	 */
+	
+//	  @AfterMethod 
+//	  public void closeEverything() { 
+//	  driver.close(); 
+//	  driver.quit(); 
+//	  }
+	 
 
 }
